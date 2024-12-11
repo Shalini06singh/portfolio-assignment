@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie-Show-Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "A user-friendly React application for tracking and exploring movies and TV shows.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://movie-show-tracker.vercel.app/",
+    "source": "https://github.com/Shalini06singh/movie-show-tracker"
+  },
+  {
+    "title": "Elit-Shopee",
+    "imageSrc": "projects/project.png",
+    "description": "Developed and implemented essential e-commerce functionalities from scratch.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://assignment-puce-xi.vercel.app/",
+    "source": "https://github.com/Shalini06singh/E-commerce-App"
+  },
+  {
+    "title": "Currency-Convertor",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://currency-converter-flame-one.vercel.app/",
+    "source": "https://github.com/Shalini06singh/currencyConverter"
+  }
+]
